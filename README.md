@@ -1,2 +1,2 @@
 # Assignment-1
-tutorial
+GitHub Actions tutorial
